@@ -1,0 +1,6 @@
+tk-tools
+tkinter
+pillow
+opencv-python
+numpy
+matplotlib
